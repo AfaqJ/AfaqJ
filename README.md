@@ -15,13 +15,37 @@
 
 ## 🔹 Languages & Tools  
 
-| Category            | Tools |
-|---------------------|-------|
-| **Programming**     | ![Python](https://skillicons.dev/icons?i=python) Python • ![C++](https://skillicons.dev/icons?i=cpp) C++  • ![JavaScript](https://skillicons.dev/icons?i=js) JavaScript •
-| **Frontend**        | ![React](https://skillicons.dev/icons?i=react) React • ![Next.js](https://skillicons.dev/icons?i=nextjs) Next.js • ![Flutter](https://skillicons.dev/icons?i=flutter) Flutter • ![Dart](https://skillicons.dev/icons?i=dart) Dart • ![HTML](https://skillicons.dev/icons?i=html) HTML • ![CSS](https://skillicons.dev/icons?i=css) CSS |
-| **AI / ML**         | ![PyTorch](https://skillicons.dev/icons?i=pytorch) PyTorch • ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) TensorFlow • ![OpenCV](https://skillicons.dev/icons?i=opencv) OpenCV |
-| **Databases/Backend** | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) PostgreSQL • ![Firebase](https://skillicons.dev/icons?i=firebase) Firebase • ![Node.js](https://skillicons.dev/icons?i=nodejs) Node.js • ![Docker](https://skillicons.dev/icons?i=docker) Docker |
-| **Tools**           | ![Git](https://skillicons.dev/icons?i=git) Git • ![GitHub](https://skillicons.dev/icons?i=github) GitHub • ![VSCode](https://skillicons.dev/icons?i=vscode) VS Code • ![Linux](https://skillicons.dev/icons?i=linux) Linux |
+### Programming  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+
+### Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+
+### AI / ML  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+
+### Databases & Backend  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
+### Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ---
 
