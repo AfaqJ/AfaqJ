@@ -17,7 +17,7 @@
 
 | Category            | Tools |
 |---------------------|-------|
-| **Programming**     | ![Python](https://skillicons.dev/icons?i=python) Python • ![C++](https://skillicons.dev/icons?i=cpp) C++ • ![Java](https://skillicons.dev/icons?i=java) Java • ![JavaScript](https://skillicons.dev/icons?i=js) JavaScript • ![TypeScript](https://skillicons.dev/icons?i=ts) TypeScript |
+| **Programming**     | ![Python](https://skillicons.dev/icons?i=python) Python • ![C++](https://skillicons.dev/icons?i=cpp) C++  • ![JavaScript](https://skillicons.dev/icons?i=js) JavaScript •
 | **Frontend**        | ![React](https://skillicons.dev/icons?i=react) React • ![Next.js](https://skillicons.dev/icons?i=nextjs) Next.js • ![Flutter](https://skillicons.dev/icons?i=flutter) Flutter • ![Dart](https://skillicons.dev/icons?i=dart) Dart • ![HTML](https://skillicons.dev/icons?i=html) HTML • ![CSS](https://skillicons.dev/icons?i=css) CSS |
 | **AI / ML**         | ![PyTorch](https://skillicons.dev/icons?i=pytorch) PyTorch • ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) TensorFlow • ![OpenCV](https://skillicons.dev/icons?i=opencv) OpenCV |
 | **Databases/Backend** | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) PostgreSQL • ![Firebase](https://skillicons.dev/icons?i=firebase) Firebase • ![Node.js](https://skillicons.dev/icons?i=nodejs) Node.js • ![Docker](https://skillicons.dev/icons?i=docker) Docker |
