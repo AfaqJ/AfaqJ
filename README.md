@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Afaq 👋
 
-<!--
-**AfaqJ/AfaqJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Student Assistant (GenAI-Incubator) applicant | 🤖 AI + Finance Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Tech Stack
+- ⚛️ Next.js / React
+- 🐍 Python
+- ☁️ Vercel, Firebase
+- 🤖 LLMs (Gemini, Groq, GPT)
+
+---
+
+### 📊 GitHub Analytics
+![Afaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfaqJ&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfaqJ&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=AfaqJ&theme=radical)
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=AfaqJ&color=blue)
