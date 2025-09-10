@@ -2,58 +2,38 @@
 
 🚀 MS Artificial Intelligence Student @ BTU Cottbus  
 🤖 Passionate about GenAI, LLMs, and Full-Stack AI Apps  
-🌍 Based in Berlin, Germany  
+🌍 Based in Germany  
 
 ---
 
 ## 🔹 About Me  
-- 🎓 Currently working on **Generative AI projects** and research.  
-- 💻 Exploring **LLMs, RAG pipelines, and AI agents**.  
-- 🌐 Building web apps with **Next.js, FastAPI, Streamlit, React**.  
-- 📊 Interested in **AI for real-world problem-solving**.  
+- 🎓 Working on **Generative AI projects** and research.  
+- 💻 Building **AI-powered web apps** with Next.js & LLM APIs.  
+- 🌐 Interested in **real-world AI problem-solving**.  
 
 ---
 
 ## 🔹 Languages & Tools  
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nextjs,flutter,dart,html,css" />
-  <br/>
-  <!-- AI/ML -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-  <br/>
-  <!-- Databases & Backend -->
-  <img src="https://skillicons.dev/icons?i=postgresql,firebase,nodejs,docker" />
-  <br/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+| Category            | Tools |
+|---------------------|-------|
+| **Programming**     | ![Python](https://skillicons.dev/icons?i=python) Python • ![C++](https://skillicons.dev/icons?i=cpp) C++ • ![Java](https://skillicons.dev/icons?i=java) Java • ![JavaScript](https://skillicons.dev/icons?i=js) JavaScript • ![TypeScript](https://skillicons.dev/icons?i=ts) TypeScript |
+| **Frontend**        | ![React](https://skillicons.dev/icons?i=react) React • ![Next.js](https://skillicons.dev/icons?i=nextjs) Next.js • ![Flutter](https://skillicons.dev/icons?i=flutter) Flutter • ![Dart](https://skillicons.dev/icons?i=dart) Dart • ![HTML](https://skillicons.dev/icons?i=html) HTML • ![CSS](https://skillicons.dev/icons?i=css) CSS |
+| **AI / ML**         | ![PyTorch](https://skillicons.dev/icons?i=pytorch) PyTorch • ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) TensorFlow • ![OpenCV](https://skillicons.dev/icons?i=opencv) OpenCV |
+| **Databases/Backend** | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) PostgreSQL • ![Firebase](https://skillicons.dev/icons?i=firebase) Firebase • ![Node.js](https://skillicons.dev/icons?i=nodejs) Node.js • ![Docker](https://skillicons.dev/icons?i=docker) Docker |
+| **Tools**           | ![Git](https://skillicons.dev/icons?i=git) Git • ![GitHub](https://skillicons.dev/icons?i=github) GitHub • ![VSCode](https://skillicons.dev/icons?i=vscode) VS Code • ![Linux](https://skillicons.dev/icons?i=linux) Linux |
 
 ---
 
-## 🔹 GitHub Analytics  
+## 🔹 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfaqJ&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AfaqJ&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfaqJ&layout=compact&theme=radical" height="180"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AfaqJ&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 🔹 Fun Stuff  
-
-- 🌱 Currently learning **advanced RAG architectures**.  
-- 🎯 Goal for 2025: Build an **AI SaaS tool**.  
-- ⚡ Fun fact: I treat my AI apps like sidekicks — MyCFO was my "personal CFO".  
 
 ---
 
