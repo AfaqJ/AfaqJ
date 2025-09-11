@@ -6,14 +6,14 @@
 
 ---
 
-## 🔹 About Me  
+## About Me  
 🎓 Working on **Generative AI projects** and research.  
 💻 Building **AI-powered web apps** with Next.js & LLM APIs.  
 🌐 Interested in **real-world AI problem-solving**.  
 
 ---
 
-## 🔹 Languages & Tools  
+## Languages & Tools  
 
 
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 🔹 GitHub Stats  
+## GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfaqJ&theme=radical" alt="GitHub Streak" />
@@ -52,7 +52,7 @@
 
 ---
 
-## 🔹 Connect with Me  
+## Connect with Me  
 
 <p align="center">
   <a href="mailto:afaq.jamshaid123@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
