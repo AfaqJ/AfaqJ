@@ -4,14 +4,6 @@
 🤖 Passionate about GenAI, LLMs, and Full-Stack AI Apps  
 🌍 Based in Germany  
 
----
-
-## About Me  
-🎓 Working on **Generative AI projects** and research.  
-💻 Building **AI-powered web apps** with Next.js & LLM APIs.  
-🌐 Interested in **real-world AI problem-solving**.  
-
----
 
 ## Languages & Tools  
 
